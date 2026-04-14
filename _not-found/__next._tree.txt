@@ -1,4 +1,4 @@
 :HL["./_next/static/chunks/0c3wd-a2m9~5d.css","style"]
-:HL["./_next/static/chunks/0husfd2btp8xz.css","style"]
+:HL["./_next/static/chunks/05lkq-v939-~8.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"EgYWhh3lo9kR2Pu7lzpqY"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"0Vt_FuRxlH9q7m8Ijvx7V"}
